@@ -1,7 +1,7 @@
 -  Hi, I’m @mattcolantonio
--  I’m interested in Economics, Public Policy, and Housing/Real Estate
--  I’m currently pursuing an MS in Applied Economics at Boston College
--  I’m looking to collaborate on projects related to international economics or development economics
+-  I’m interested in Economics, Public Policy, specifically in Health, Housing, and Urban Studies
+-  I hold an MS in Applied Economics from Boston College
+-  I’m currently working as a Statistician
 -  You can reach me @ mattcolantonio@icloud.com or colantmc@bc.edu
 
 <!---
